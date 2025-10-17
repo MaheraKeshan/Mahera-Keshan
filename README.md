@@ -1,30 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mahera Keshan Punyawardhana</h1>
-<h3 align="center">A passionate full stack developer - UI/UX designer from Sri Lanka</h3>
+<!-- Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#0078ff;">Mahera Keshan Punyawardhana</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Designer | 🌍 From Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maherakeshan&label=Profile%20views&color=0e75b6&style=flat" alt="maherakeshan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maherakeshan" alt="maherakeshan" /></a> </p>
-
-- 🔭 I’m currently working on **Cosmetics eCommerce website**
-
-- 🌱 I’m currently learning **C#, Angularjs**
-
-- 👯 I’m looking to collaborate on **open-source collaboration tools**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MaheraKeshan](https://github.com/MaheraKeshan)
-
-- 💬 Ask me about **Front-end development (HTML, CSS, JavaScript, React - Back-end basics (Node.js, Express.js) - Database management (MongoDB, MySQL) - Building full-stack web applications - Version control with Git & GitHub - Learning new technologies and software engineering concepts**
-
-- 📫 How to reach me **maherakeshan13@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y5_3VwGXh0Yt2uXvPC9_WcHV4FjzDe45/view?usp=sharing](https://drive.google.com/file/d/1Y5_3VwGXh0Yt2uXvPC9_WcHV4FjzDe45/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahera-keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahera-keshan" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+functional+digital+experiences;Designing+modern+UI%2FUX+interfaces;Building+full-stack+applications+with+passion;Always+learning%2C+always+improving+✨" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maherakeshan&show_icons=true&locale=en&layout=compact" alt="maherakeshan" /></p>
+### 🚀 About Me
+
+I'm a **dedicated Full Stack Developer** and **UI/UX Designer** with a love for building clean, efficient, and impactful web experiences.  
+I’m passionate about merging creativity with technology — designing elegant interfaces and coding the logic that powers them.
+
+- 🔭 Currently working on: **A Cosmetics eCommerce Website**
+- 🌱 Exploring: **C#**, **.NET**, and **Angular**
+- 💬 Ask me about:  
+  **Frontend (React, Tailwind, CSS3)** • **Backend (Node.js, Express)** • **Databases (MongoDB, MySQL)** • **UI/UX Design (Figma)**  
+- 👯 Open to collaborate on: **Open-source projects & creative tech ideas**
+- 🧠 Motto: *“Code with purpose. Design with passion.”*
+- 📫 Reach me at: **maherakeshan13@gmail.com**
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1Y5_3VwGXh0Yt2uXvPC9_WcHV4FjzDe45/view?usp=sharing)
+
+---
+
+### 💡 Ask Me About
+- Frontend Development (**HTML, CSS, JavaScript, React, Tailwind**)
+- Backend Basics (**Node.js, Express.js**)
+- Database Management (**MongoDB, MySQL**)
+- UI/UX Design & Wireframing (**Figma**)
+- RESTful API Development
+- Git & GitHub Version Control
+- Clean Code & Project Architecture
+- Continuous Learning & Tech Trends
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/mahera-keshan" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:maherakeshan13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MaheraKeshan">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,angular,cs,dotnet,java,python,php,figma,git,tailwind,postman,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maherakeshan&show_icons=true&theme=algolia" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maherakeshan&layout=compact&theme=algolia" alt="langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maherakeshan&theme=algolia" alt="streak stats" height="160"/>
+</p>
+
+---
+
+### ✨ Inspirational Quote
+> *"Good design is intelligence made visible, and good code is design made functional."*  
+> — Mahera Keshan Punyawardhana
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=maherakeshan&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
+</p>
